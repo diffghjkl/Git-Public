@@ -1,6 +1,8 @@
 # 前言
 本文以Debian11为主要参考，其他系统请根据实际情况来操作
 
+> 部分内容参考了[BAPS.pdf](https://github.com/diffghjkl/Git-Public/blob/main/BaPs/BAPS.pdf)
+
 
 
 
