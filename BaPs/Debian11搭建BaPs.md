@@ -345,3 +345,16 @@ adb reboot
 
 安装成功后，通过手机 Wi-Fi 的手动代理，配置 `主机名`（服务器IP）& `端口`（Mitmproxy 的监听端口，默认为 8080）
 
+
+
+
+
+## 配置WireGuard
+点击 `Mitmproxy` WEB界面的tab栏中的 `Capture` 选项卡  
+
+找到 `WireGuard Server` 并勾选 `Run WireGuard Server` 后，便会出现适用于 `WireGuard` 的配置文件  
+
+根据配置文件手动配置客户端  
+> 也可以扫描右侧的二维码, `WireGuard` 将会自动配置  
+
+设置好隧道后，启用该隧道（请根据右侧的信息来判断是否连接成功）
