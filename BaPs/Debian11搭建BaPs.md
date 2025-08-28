@@ -4,7 +4,8 @@
 
 本文以Debian11为主要参考，其他系统请根据实际情况来操作  
 
-## 相关内容
+## 一些链接
+> 部分内容与本文内容关联度不大
 ### 服务端
 - [gucooing/BaPs](https://github.com/gucooing/BaPs)
 - [BanterSR/ci](https://github.com/BanterSR/ci)
